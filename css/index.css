@@ -184,7 +184,7 @@ display: flex;
 .middle-content .boxes .box1 {
     width: 12.5%;
     height: 100px;
-    background: #046569;
+    background: teal;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -194,7 +194,7 @@ display: flex;
 .middle-content .boxes .box2 {
     width: 12.5%;
     height: 100px;
-    background: #FAD300;
+    background: gold;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -204,7 +204,7 @@ display: flex;
 .middle-content .boxes .box3 {
     width: 12.5%;
     height: 100px;
-    background: #027D71;
+    background: cadetblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -215,7 +215,7 @@ display: flex;
 .middle-content .boxes .box4 {
     width: 12.5%;
     height: 100px;
-    background: #E18B59;
+    background: coral;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -225,7 +225,7 @@ display: flex;
 .middle-content .boxes .box5 {
     width: 12.5%;
     height: 100px;
-    background: #D82D07;
+    background: crimson;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -235,7 +235,7 @@ display: flex;
 .middle-content .boxes .box6 {
     width: 12.5%;
     height: 100px;
-    background: #49D807;
+    background: forestgreen;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -245,7 +245,7 @@ display: flex;
 .middle-content .boxes .box7 {
     width: 12.5%;
     height: 100px;
-    background: #905BA8;
+    background: darkorchid;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -255,7 +255,7 @@ display: flex;
 .middle-content .boxes .box8 {
     width: 12.5%;
     height: 100px;
-    background: #FFC0CB;
+    background: hotpink;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -265,7 +265,7 @@ display: flex;
 .middle-content .boxes .box9 {
     width: 12.5%;
     height: 100px;
-    background: #003366;
+    background: indigo;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -275,7 +275,7 @@ display: flex;
 .middle-content .boxes .box10 {
     width: 12.5%;
     height: 100px;
-    background: blue;
+    background: dodgerblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
