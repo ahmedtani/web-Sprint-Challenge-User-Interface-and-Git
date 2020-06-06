@@ -1,7 +1,7 @@
 If you were to describe semantic HTML to the next cohort of students, what would you say?
 A semantic element clearly describes its meaning to both the browser and the developer. and tells you what you about to do is either form table articles and so on.
 
-Name two big differences between display: block; and display: inline;. In inline you can't manipulate the width or height. while in block you can manipulate those elements
+Name two big differences between display: block; and display: inline;. In inline you can't manipulate the width or height. while in block you can manipulate those elements. BLOCK TAKES ENTIRE SPACE. INLINE BLOCK TAKES AS MUCH SPACE AS NEEDED
 
 What are the 4 areas of the box model? Margin - Border - Padding - Contents
 
