@@ -76,7 +76,7 @@ align-content: : center;
 display:flex;
 margin-left:18.95%;
 padding-top:4%;
-padding-bottom: 2%
+padding-bottom:2%
 
 
 }
@@ -116,39 +116,37 @@ h1, h2, h3, h4, h5 {
 
 p {
     line-height: 1.4;
+		display: flex;
 }
 
-.container {
-
-    width: 800px;
-    margin: 0 auto;
-		border:2px dotted red;
-
-}
 .container-about-page{
-	border:2px dotted red;
-
-	 border-bottom:  3px dotted #bbb;
-	 padding-bottom:2%;
-}
-.topdiv{
-display: flex;
-	border:2px solid red;
-	justify-content:space-between;
-
-
-	width: 100%;
+	margin-left: 20%;
+	margin-right:19%;
+	margin-bottom: 2%;
+	text-align: justify;
+	padding-bottom:3%;
+	max-width:150%;
+	 border-bottom:  dotted #bbb;
 }
 
 .topdiv1{
 	display: flex;
-	width:100%;
-	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+.gm{
+	margin:30px;
+	justify-content: space-between;
 }
 .topdiv2{
 	display: flex;
-	width:100%;
-	flex-direction: column;
+	 justify-content: space-between;
+	 flex-direction: row;
+	 max-width:540px;
+	 margin-left: 18%;
+	 text-align: center;
+
+
 }
 .top-content {
     display: flex;
@@ -158,10 +156,40 @@ display: flex;
     border-bottom: 1px dashed black;
 }
 
+.txts{
+	display: flex;
+	justify-content: space-between;
+	max-width:200%;
+	padding:10px;
+	margin-left:210px;
+	margin-right:170px;
+}
+
+.text2{
+	margin-left: 240px;
+	margin-right:210px;
+	padding-top: 25px;
+}
+.txts6{
+	display: flex;
+	justify-content: space-around;
+	margin-right:25%;
+	margin-left:5%;
+	padding-top:2%;
+}
+.topdiv3{
+	margin-left:18%;
+	padding-top: 3%;
+	padding-bottom:2%;
+	margin-left:16%;
+	margin-right:20%;
+}
+
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;
+		justify-content: space-between;
 }
 
 .middle-content {
@@ -313,4 +341,17 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+button{
+	background-color: white;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+	border-radius:20px ;
+	border: 2px solid black;
 }
